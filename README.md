@@ -29,10 +29,10 @@ docker-compose up --build
 
 
 ### project 
-1. FrontEnd will be hosted on (http://localhost:3000/)[http://localhost:3000/]
-2. BackEnd will be hosted on (http://localhost:5000/)[http://localhost:3000/]
+1. FrontEnd will be hosted on [http://localhost:3000/](http://localhost:3000/)
+2. BackEnd will be hosted on [http://localhost:3000/](http://localhost:5000/)
 3. For Api checking (Swagger) visit (http://localhost:5000/)[http://localhost:3000/docs]
-4. For Documentation (jsDocs) visit the folder path (backendspeechmodal/docs/index.html)
+4. For Documentation (jsDocs) visit the folder path [backendspeechmodal/docs/index.html]
    
 ### Prerequisites
 
